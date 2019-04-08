@@ -1,0 +1,33 @@
+{
+    "name": "react-state-rxjs-cli",
+    "version": "1.0.1",
+    "description": "react-state-rxjs CLI",
+    "main": "index.js",
+    "scripts": {
+        "plop": "plop"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/react-state/cli"
+    },
+    "keywords": [
+        "react-state-rxjs",
+        "cli"
+    ],
+    "author": "Vytautas Pranskunas",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/react-state/cli/issues"
+    },
+    "homepage": "https://github.com/react-state/cli#readme",
+    "dependencies": {
+        "find-package-json": "^1.2.0",
+        "inquirer-directory": "^2.1.0",
+        "path": "^0.12.7",
+        "plop": "^2.3.0",
+        "pluralize": "^7.0.0"
+    },
+    "bin": {
+        "rsx": "index.js"
+    }
+}
