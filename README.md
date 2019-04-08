@@ -1,4 +1,4 @@
-# react-state CLI
+# react-state-rxjs CLI
 
 ![react-state-rxjs CLI](/logo.png)
 
