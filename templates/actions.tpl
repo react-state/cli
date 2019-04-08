@@ -1,4 +1,4 @@
-import { HasStore, InjectStore } from 'ng-state';
+import { HasStore, InjectStore } from 'react-state-rxjs';
 import { Map } from 'immutable';
 
 @InjectStore({{{ statePath }}})

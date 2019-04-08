@@ -1,4 +1,4 @@
-import { ReactStateTestBed } from 'react-state';
+import { ReactStateTestBed } from 'react-state-rxjs';
 
 import { {{pascalCase name}} } from './{{name}}';
 import { {{pascalCase name}}StateActions } from './{{folderName}}/{{name}}.actions';

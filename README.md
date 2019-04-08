@@ -1,4 +1,4 @@
-# ng-state CLI
+# react-state CLI
 
 ![react-state-rxjs CLI](/logo.png)
 
