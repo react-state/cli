@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { ComponentState, ReactComponentWithStateActions } from 'react-state-rxjs';
+import { ComponentState } from 'react-state-rxjs';
 import { {{pascalCase name}}StateActions } from './{{folderName}}/{{name}}.actions';
 
 @ComponentState({{pascalCase name}}StateActions)
