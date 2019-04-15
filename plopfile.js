@@ -73,7 +73,7 @@ module.exports = function (plop) {
         const component = {
             type: 'add',
             skipIfExists: true,
-            path: buildPath('{{ \'dashCase\' name}}.ts', data.directory),
+            path: buildPath('{{ \'dashCase\' name}}.tsx', data.directory),
             templateFile: data.extends === 'reactStateComponent' ? './templates/component.tpl' : './templates/component-plain.tpl',
             data: {
                 folderName: folderName
